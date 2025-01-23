@@ -1,4 +1,4 @@
-Jack Dolbeer
-\nComputer Engineering
-\nProjects:
-\n1. 
+Jack Dolbeer  
+Computer Engineering  
+Projects:  
+1. 
